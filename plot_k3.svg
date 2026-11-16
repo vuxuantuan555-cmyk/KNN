@@ -1,0 +1,71 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='720' height='750' font-family='Arial'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='360' y='28' text-anchor='middle' font-size='20'>kNN, k = 3</text>
+<line x1='60' y1='660' x2='60' y2='60' stroke='#ddd'/>
+<line x1='60' y1='660' x2='660' y2='660' stroke='#ddd'/>
+<text x='60' y='678' text-anchor='middle' font-size='12'>0</text>
+<text x='50' y='664' text-anchor='end' font-size='12'>0</text>
+<line x1='120' y1='660' x2='120' y2='60' stroke='#ddd'/>
+<line x1='60' y1='600' x2='660' y2='600' stroke='#ddd'/>
+<text x='120' y='678' text-anchor='middle' font-size='12'>1</text>
+<text x='50' y='604' text-anchor='end' font-size='12'>1</text>
+<line x1='180' y1='660' x2='180' y2='60' stroke='#ddd'/>
+<line x1='60' y1='540' x2='660' y2='540' stroke='#ddd'/>
+<text x='180' y='678' text-anchor='middle' font-size='12'>2</text>
+<text x='50' y='544' text-anchor='end' font-size='12'>2</text>
+<line x1='240' y1='660' x2='240' y2='60' stroke='#ddd'/>
+<line x1='60' y1='480' x2='660' y2='480' stroke='#ddd'/>
+<text x='240' y='678' text-anchor='middle' font-size='12'>3</text>
+<text x='50' y='484' text-anchor='end' font-size='12'>3</text>
+<line x1='300' y1='660' x2='300' y2='60' stroke='#ddd'/>
+<line x1='60' y1='420' x2='660' y2='420' stroke='#ddd'/>
+<text x='300' y='678' text-anchor='middle' font-size='12'>4</text>
+<text x='50' y='424' text-anchor='end' font-size='12'>4</text>
+<line x1='360' y1='660' x2='360' y2='60' stroke='#ddd'/>
+<line x1='60' y1='360' x2='660' y2='360' stroke='#ddd'/>
+<text x='360' y='678' text-anchor='middle' font-size='12'>5</text>
+<text x='50' y='364' text-anchor='end' font-size='12'>5</text>
+<line x1='420' y1='660' x2='420' y2='60' stroke='#ddd'/>
+<line x1='60' y1='300' x2='660' y2='300' stroke='#ddd'/>
+<text x='420' y='678' text-anchor='middle' font-size='12'>6</text>
+<text x='50' y='304' text-anchor='end' font-size='12'>6</text>
+<line x1='480' y1='660' x2='480' y2='60' stroke='#ddd'/>
+<line x1='60' y1='240' x2='660' y2='240' stroke='#ddd'/>
+<text x='480' y='678' text-anchor='middle' font-size='12'>7</text>
+<text x='50' y='244' text-anchor='end' font-size='12'>7</text>
+<line x1='540' y1='660' x2='540' y2='60' stroke='#ddd'/>
+<line x1='60' y1='180' x2='660' y2='180' stroke='#ddd'/>
+<text x='540' y='678' text-anchor='middle' font-size='12'>8</text>
+<text x='50' y='184' text-anchor='end' font-size='12'>8</text>
+<line x1='600' y1='660' x2='600' y2='60' stroke='#ddd'/>
+<line x1='60' y1='120' x2='660' y2='120' stroke='#ddd'/>
+<text x='600' y='678' text-anchor='middle' font-size='12'>9</text>
+<text x='50' y='124' text-anchor='end' font-size='12'>9</text>
+<line x1='660' y1='660' x2='660' y2='60' stroke='#ddd'/>
+<line x1='60' y1='60' x2='660' y2='60' stroke='#ddd'/>
+<text x='660' y='678' text-anchor='middle' font-size='12'>10</text>
+<text x='50' y='64' text-anchor='end' font-size='12'>10</text>
+<circle cx='540' cy='570' r='189.737' fill='none' stroke='gray' stroke-dasharray='6,4'/>
+<line x1='540' y1='570' x2='540' y2='480' stroke='gray'/>
+<line x1='540' y1='570' x2='360' y2='540' stroke='gray'/>
+<line x1='540' y1='570' x2='360' y2='510' stroke='gray'/>
+<circle cx='330' cy='240' r='201.246' fill='none' stroke='gray' stroke-dasharray='6,4'/>
+<line x1='330' y1='240' x2='420' y2='180' stroke='gray'/>
+<line x1='330' y1='240' x2='210' y2='360' stroke='gray'/>
+<line x1='330' y1='240' x2='240' y2='420' stroke='gray'/>
+<circle cx='240' cy='420' r='7' fill='blue'/>
+<circle cx='150' cy='360' r='7' fill='blue'/>
+<circle cx='420' cy='180' r='7' fill='blue'/>
+<circle cx='210' cy='360' r='7' fill='blue'/>
+<rect x='353' y='503' width='14' height='14' fill='red'/>
+<rect x='353' y='533' width='14' height='14' fill='red'/>
+<rect x='533' y='473' width='14' height='14' fill='red'/>
+<rect x='323' y='473' width='14' height='14' fill='red'/>
+<polygon points='540,559 551,570 540,581 529,570' fill='red' stroke='black' stroke-width='2'/>
+<text x='554' y='558' font-size='13' font-weight='bold'>T1 -> B</text>
+<polygon points='330,229 341,240 330,251 319,240' fill='blue' stroke='black' stroke-width='2'/>
+<text x='344' y='228' font-size='13' font-weight='bold'>T2 -> A</text>
+<circle cx='80' cy='728' r='6' fill='blue'/><text x='92' y='732' font-size='12'>Class A</text>
+<rect x='160' y='722' width='12' height='12' fill='red'/><text x='178' y='732' font-size='12'>Class B</text>
+<text x='250' y='732' font-size='12'>Hinh thoi = diem test (mau = lop du doan)</text>
+</svg>
